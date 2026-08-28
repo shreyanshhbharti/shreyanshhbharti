@@ -43,3 +43,26 @@ Currently learning, building, breaking things, and learning again 🚀
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shreyanshhbharti&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Shreyansh's GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshhbharti&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=shreyanshhbharti&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
