@@ -46,16 +46,6 @@ Currently learning, building, breaking things, and learning again 🚀
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shreyanshhbharti&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Shreyansh's GitHub stats"
-  />
-</p>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyanshhbharti&theme=github_dark)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shreyanshhbharti&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used languages"
-  />
-</p>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyanshhbharti&theme=github_dark)
