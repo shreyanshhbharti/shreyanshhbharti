@@ -42,10 +42,3 @@ Currently learning, building, breaking things, and learning again 🚀
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyanshhbharti&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyanshhbharti&theme=github_dark)
